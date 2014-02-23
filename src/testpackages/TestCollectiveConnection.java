@@ -28,6 +28,6 @@ public class TestCollectiveConnection {
 
         System.out.println(Users.find(1));
 
-        //Users.find_by(test => "a");
+        Users.find_by();
     }
 }
